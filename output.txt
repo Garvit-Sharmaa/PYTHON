@@ -1,0 +1,3 @@
+3rd attempt to check the file is working properly 
+this i the new line added to the file 
+this line is appended to the file 
